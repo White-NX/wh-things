@@ -1,0 +1,33 @@
+﻿.heimu:active, .heimu:hover {
+    color: #fff
+}
+/*deep ♂ dark ♂ fantasy*/
+.heimu {
+    background-color: #252525;
+    color: #252525;
+    text-shadow: none;
+    transition: color 0.31s;
+}
+.shortcode_error {
+    color: #DC143C;
+}
+/* 文字注释 例：*/
+/*Misaka Mikoto*/
+/*御 坂  美 琴*/
+/*TODO：删除一些无关的注释*/
+.annotate, annotate {
+    /*display: inline;*/
+    display: inline-table;
+    height: 1em/*2em*//*3em*//*114514em*/;
+    text-align: center;
+    line-height: 1.12/*1.1*/;
+    vertical-align: text-bottom;
+    white-space: nowrap;
+}
+.annotate_text, annotate_text{
+    font-size: 0.61em;
+    line-height: 1.1;
+    text-align: center;
+    display: table-header-group;
+    white-space: nowrap;
+}
